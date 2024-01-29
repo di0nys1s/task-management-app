@@ -45,7 +45,7 @@ function MarketingPage() {
         accomplish it all with Taskify
       </div>
       <Button className="mt-6">
-        <Link href="/">Get Taskify for free</Link>
+        <Link href="/sign-up">Get Taskify for free</Link>
       </Button>
     </div>
   );
